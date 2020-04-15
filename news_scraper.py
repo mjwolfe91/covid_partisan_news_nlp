@@ -1,7 +1,7 @@
 from newsapi import NewsApiClient
 from operator import itemgetter
 
-newsapi = NewsApiClient(api_key="ee1bf85ed47f48dd8f89da2c29c7b02b")
+newsapi = NewsApiClient(api_key="Ask Michael")
 
 sources = newsapi.get_sources(country='us')
 source_list = list(map(itemgetter('name'), sources['sources']))
