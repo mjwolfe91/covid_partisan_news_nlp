@@ -2,7 +2,7 @@ from newsapi import NewsApiClient
 from operator import itemgetter
 import csv
 
-newsapi = NewsApiClient(api_key="ee1bf85ed47f48dd8f89da2c29c7b02b")
+newsapi = NewsApiClient(api_key="Ask Michael")
 
 #populates source list, don't run unless needed
 #sources = newsapi.get_sources(country='us')
