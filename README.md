@@ -3,10 +3,10 @@
 
 # Investigating the progression of COVID-19 as a partisan issue in the United States
 
-## Partisan Issue:
-1. Affective Behavior Analysis of Partisan Issues with COVID-19: What Roles Do Politics Play in Policy Decisions During a Pandemic
-2. 
-3. 
+## Partisan Issue ~ Potential Topics:
+1. Affective Behavior Analysis of Partisan Issues with COVID-19: What Roles Do Politics Play in Policy Decisions During a Pandemic.
+2. Deep Learning for Identification of Partisan Issues Related to COVID-19.
+3. Detection of Partisan Issues Mentioned In Tweets Using ELMo
 4. 
 
 ## Datasets:
