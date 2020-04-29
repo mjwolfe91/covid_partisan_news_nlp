@@ -4,7 +4,7 @@
 # Investigating the progression of COVID-19 as a partisan issue in the United States
 
 ## Partisan Issue:
-1. 
+1. Are Democratic governors more likely than Republicans to take quarantine measures?
 2. 
 3. 
 4. 
@@ -20,6 +20,7 @@
 
 ## Notes:
 * A partisan is a committed member of a political party or army. In multi-party systems, the term is used for politicians who strongly support their party's policies and are reluctant to compromise with their political opponents.
+* Have Republican governors, such as Oklahoma and Texas, have been slower to impose restrictions, while states with Democratic leaders, such as California, have moved more swiftly to shut down all non-essential businesses.
 
 ## Resources:
 * https://www.pewresearch.org/fact-tank/2020/04/02/5-facts-about-partisan-reactions-to-covid-19-in-the-u-s/
