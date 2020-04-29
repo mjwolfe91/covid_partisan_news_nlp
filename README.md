@@ -4,7 +4,7 @@
 # Investigating the progression of COVID-19 as a partisan issue in the United States
 
 ## Partisan Issue:
-1. Are Democratic governors more likely than Republicans to take quarantine measures?
+1. Affective Behavior Analysis of Partisan Issues with COVID-19: What Roles Do Politics Play in Policy Decisions During a Pandemic
 2. 
 3. 
 4. 
