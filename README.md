@@ -1,4 +1,4 @@
-# Investigating the progression of COVID-19 as a partisan issue in the United States
+# Investigating the Progression of COVID-19 as a Partisan Issue in the United States
 
 ## Problem Statement ~ Potential Topics:
 1. Affective Behavior Analysis of Partisan Issues with COVID-19: What Roles Do Politics Play in Policy Decisions During a Pandemic.
