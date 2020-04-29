@@ -21,6 +21,7 @@
 ## Notes:
 * A partisan is a committed member of a political party or army. In multi-party systems, the term is used for politicians who strongly support their party's policies and are reluctant to compromise with their political opponents.
 * Have Republican governors, such as Oklahoma and Texas, have been slower to impose restrictions, while states with Democratic leaders, such as California, have moved more swiftly to shut down all non-essential businesses.
+* Analysis of millions of social media posts can help us understand how the public at large is responding to the outbreak. Identifying spreading misinformation can be critical to public health messaging.
 
 ## Resources:
 * https://www.pewresearch.org/fact-tank/2020/04/02/5-facts-about-partisan-reactions-to-covid-19-in-the-u-s/
