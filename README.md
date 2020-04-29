@@ -7,6 +7,7 @@
 4. 
 
 ## Data Description
+* Text data from Tweets. Tall and thin and will require extensive cleaning prior to model evaluation. Data will be housed in AWS S3 and possibly AWS Redshift. Approximately 8 GB
 
 ## Datasets:
 * https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
