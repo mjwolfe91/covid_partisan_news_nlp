@@ -1,7 +1,15 @@
 import tweepy
+import json
 
-auth = tweepy.OAuthHandler(consumer_key='get from David', consumer_secret='get from David')
-auth.set_access_token(key='get from David', secret='get from David')
+f = open('twitter_auth.json')
+auth_dict = json.loads(f.read())
+ACCESS_TOKEN = auth_dict['ACCESS_TOKEN']
+ACCESS_SECRET = auth_dict['ACCESS_SECRET']
+CONSUMER_KEY = auth_dict['CONSUMER_KEY']
+CONSUMER_SECRET = auth_dict['CONSUMER_SECRET']
+
+auth = tweepy.OAuthHandler(consumer_key=CONSUMER_KEY, consumer_secret=CONSUMER_SECRET)
+auth.set_access_token(key=ACCESS_TOKEN, secret=ACCESS_SECRET)
 
 api = tweepy.API(auth)
 
